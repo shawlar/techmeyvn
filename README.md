@@ -1,4 +1,4 @@
-# techmeyvn
+# techmeyvn Simple Calculator
 def input_and_convert(prompt, conversion_fn):
     string = input(prompt)
     number = conversion_fn(string)
